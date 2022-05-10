@@ -1,0 +1,12 @@
+--2022-05-04 00:10:39--  https://raw.githubusercontent.com/vercel/next-learn/master/basics/basics-final/public/images/profile.jpg
+Resolving raw.githubusercontent.com (raw.githubusercontent.com)... 185.199.110.133, 185.199.109.133, 185.199.108.133, ...
+Connecting to raw.githubusercontent.com (raw.githubusercontent.com)|185.199.110.133|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 62408 (61K) [image/jpeg]
+Saving to: ‘profile.jpg.1’
+
+     0K .......... .......... .......... .......... .......... 82% 3.84M 0s
+    50K ..........                                            100% 10.4M=0.01s
+
+2022-05-04 00:10:39 (4.33 MB/s) - ‘profile.jpg.1’ saved [62408/62408]
+

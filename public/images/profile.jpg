@@ -1,0 +1,13 @@
+--2022-05-04 00:09:06--  https://github.com/vercel/next-learn/blob/master/basics/basics-final/public/images/profile.jpg
+Resolving github.com (github.com)... 140.82.113.4
+Connecting to github.com (github.com)|140.82.113.4|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘profile.jpg.1’
+
+     0K .......... .......... .......... .......... .......... 1.31M
+    50K .......... .......... .......... .......... .......... 2.24M
+   100K .......... .......... ....                             5.66M=0.06s
+
+2022-05-04 00:09:06 (1.92 MB/s) - ‘profile.jpg.1’ saved [127593]
+
